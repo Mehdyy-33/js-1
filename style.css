@@ -1,0 +1,16 @@
+.random-bg, .click-counter {
+    width: 200px;
+    height: 100px;
+    margin-bottom: 10px;
+    text-align: center;
+    line-height: 100px;
+    cursor: pointer;
+}
+
+.random-bg {
+    background-color: lightblue;
+}
+
+.click-counter {
+    background-color: lightgreen;
+}
